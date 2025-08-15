@@ -56,11 +56,15 @@ PLAYFIELD_X=30
 PLAYFIELD_Y=1
 BORDER_COLOR=$YELLOW
 
+
+
 # Location and color of score information
 SCORE_X=1
 SCORE_Y=2
 SCORE_COLOR=$GREEN
 
+
+# //*-->hfbhbrhf-----
 # Location and color of help information
 HELP_X=58
 HELP_Y=1
